@@ -1,6 +1,7 @@
 # Plant Logger Backend
 
 ## Table of Contents
+- [License](#license)
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Setup](#setup)
@@ -12,6 +13,10 @@
     - [Plants](#plants)
     - [Logs](#logs)
     - [Changes](#changes)
+
+## License
+This project is licensed under the terms of the GNU AGPL v3.0.  
+See the [LICENSE](./LICENSE) file for more details.
 
 ## Overview
 This is the backend for the Plant Logger application, built with Node.js and Express. It uses Docker and Docker Compose for containerized deployment and includes a MariaDB database.
